@@ -1,96 +1,60 @@
-<div align="center"> 
+<div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=%3E+SYSTEM_ONLINE_;%3E+HELLO_I_AM_SERKAN_;%3E+SOFTWARE_ENGINEERING_STUDENT_;%3E+MOBILE_DEVELOPER_" alt="Typing SVG" />
-
-  <br><br>
-
-  <img src="https://wsrv.nl/?url=github.com/Serkan13-afk.png&w=250&h=250&fit=cover&mask=circle" alt="Serkan Profile" />
+  <!-- Animasyonlu Terminal Yazısı -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E_SYSTEM_ONLINE;%3E_HELLO_I_AM_SERKAN;%3E_SOFTWARE_ENGINEERING_STUDENT;%3E_MOBILE_DEVELOPER" alt="Typing SVG" />
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=Serkan13-afk&label=PROFILE_VIEWS&color=00FFFF&style=for-the-badge" alt="Views" />
+  <!-- Profil Fotoğrafı (Boyutu biraz daha dengeli hale getirildi) -->
+  <img src="https://wsrv.nl/?url=github.com/Serkan13-afk.png&w=160&h=160&fit=cover&mask=circle" alt="Serkan Profile" />
 
   <br><br>
-  
-  <h3><i>🚀 Yazılım Mühendisliği Öğrencisi @ İnönü Üniversitesi | Yazılım Stajyeri @ Software Persona 🚀</i></h3>
+
+  <h3>Yazılım Mühendisliği Öğrencisi @ İnönü Üniversitesi <br> Yazılım Stajyeri @ Software Persona</h3>
+
+  <p>
+    <i>"Sadece kod yazmıyor; mühendislik prensipleriyle ölçeklenebilir, performanslı ve sürdürülebilir mimariler tasarlıyorum."</i>
+  </p>
+
+  <!-- Rozetler ve İletişim -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Serkan13-afk&label=Görüntülenme&color=00FFFF&style=flat-square" alt="Views" />
+    <a href="https://www.linkedin.com/in/serkan-topbasi-98294434a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:serkantopbasi65@gmail.com">
+      <img src="https://img.shields.io/badge/E_Posta-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+---
 
-## ⚡ 01. HAKKIMDA_
+### 💡 Hakkımda
 
-> *"Sadece kod yazmıyor; mühendislik prensipleriyle ölçeklenebilir, performanslı ve sürdürülebilir yazılım mimarileri tasarlıyorum."*
+- 🎓 **Mühendislik Temeli:** Veri Yapıları ve Algoritmalar (DSA), Nesne Yönelimli Programlama (OOP) ve Temiz Kod (Clean Code) prensipleri üzerine inşa edilmiş geliştirme süreçleri.
+- 📱 **Mobil Mimari:** **Flutter** ve **Swift** (UIKit) kullanarak uçtan uca mobil ürünler geliştiriyorum. Firebase entegrasyonları (BaaS) ve kompleks durum yönetimleri (State Management) kuruyorum.
+- 🤖 **Yapay Zeka & Otomasyon:** Gemini API entegrasyonuyla projelere akıllı katmanlar ekliyor (örn: Anima Doğa ile Konuşma), n8n kullanarak verimli arka plan iş akışı otomasyonları tasarlıyorum.
 
-- 🎓 **Mühendislik Temeli:** *Veri Yapıları ve Algoritmalar (DSA), nesne yönelimli programlama (OOP) ve temiz kod (Clean Code) prensipleri üzerine inşa edilmiş geliştirme süreçleri.*
-- 📱 **Mobil Mimari:** *Flutter ve Swift (UIKit) kullanarak uçtan uca mobil ürünler geliştiriyorum. Firebase entegrasyonları ve kompleks durum yönetimleri (state management) tasarlıyorum.*
-- 🧠 **Yapay Zeka & Sistem Otomasyonu:** *Gemini API entegrasyonuyla projelere akıllı katmanlar ekliyor (örn: Anima Doğa ile Konuşma), n8n kullanarak verimli arka plan iş akışı otomasyonları kuruyorum.*
+---
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-## ⚡ 02. TEKNOLOJİ_AĞI_
+### 🛠️ Teknolojiler & Araçlar
 
 <div align="center">
-  
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=00FFFF" alt="Flutter" />
+  <br>
+  <!-- Modern Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,swift,dart,python,java,firebase,git,github,vscode,androidstudio&theme=dark" alt="My Skills" />
   </a>
-  <a href="https://www.swift.org" target="_blank">
-    <img src="https://img.shields.io/badge/SWIFT-000000?style=for-the-badge&logo=swift&logoColor=FF00FF" alt="Swift" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FFFF" alt="Python" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=FF00FF" alt="Java" />
-  </a>
-  
-  <br><br>
-
-  <a href="https://firebase.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  </a>
-  <a href="https://n8n.io" target="_blank">
-    <img src="https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=FF00FF" alt="n8n" />
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00FFFF" alt="Git" />
-  </a>
-  
+  <br>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
+---
 
-## ⚡ 03. SİSTEM_İSTATİSTİKLERİ_
+### 📊 GitHub İstatistikleri
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Serkan13-afk&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&border_color=00FFFF&hide_border=false" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serkan13-afk&background=000000&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FFFF&dates=00FFFF&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-
-## ⚡ 04. BAĞLANTIYI_KUR_
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/serkan-topbasi-98294434a/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:serkantopbasi65@gmail.com">
-    <img src="https://img.shields.io/badge/E_POSTA-000000?style=for-the-badge&logo=gmail&logoColor=FF00FF" alt="Email" />
-  </a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Serkan13-afk&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&text_color=8b949e&icon_color=00FFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serkan13-afk&theme=transparent&hide_border=true&title_color=00FFFF&text_color=8b949e&icon_color=00FFFF&stroke=00FFFF" alt="GitHub Streak" width="48%" />
 </div>
